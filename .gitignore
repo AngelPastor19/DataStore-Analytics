@@ -1,0 +1,37 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+credentials.json
+secrets.json
+
+# Configuraciones locales de VS Code
+.vscode/
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Archivos temporales y registros
+*.log
+*.tmp
+*.bak
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+
+# Archivos temporales de Power BI
+*.pbit.tmp

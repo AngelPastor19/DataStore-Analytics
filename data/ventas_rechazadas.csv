@@ -1,0 +1,4 @@
+﻿Fecha,Producto,Cantidad,PrecioUnitario,MotivoRechazo
+2026-11-20,Mouse Logitech,-3,80,Cantidad menor o igual a cero
+2026-11-21,Monitor Samsung,0,750,Cantidad menor o igual a cero
+2026-11-21,Teclado Redragon,error,150,Cantidad no numerica
